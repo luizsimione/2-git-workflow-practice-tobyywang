@@ -5,3 +5,6 @@
 
 I never knew Palantir had a project like this! With all the companies implementing AI these days, I still never thought about its utility in these kinds of databases, but I'm glad that these companies are putting their models to use in this kind of way. Is Polaris the only anti-trafficking org that Palantir works with, or does it plan to collaborate with more organizations to increase their database?
 -Arnav Nayak
+### This article is really interesting, most of the time technological advancements are highlighted of their use in our day to day lives, how its implemented in our phones or at work but its refreshing to see new technologies using for good when it doesnt get highlighted in mainstream media.
+
+*Comment by: Luiz Simione
